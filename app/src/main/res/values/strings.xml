@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">雙步點擊</string>
+    <string name="service_label">雙步點擊 - 無障礙服務</string>
+    <string name="accessibility_description">用於執行你自訂的兩步順序點擊。僅在你主動觸發時動作，不會在背景自動操作。</string>
+</resources>
